@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # title of site appears in banner
 title: Wolfe Studio Archives
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: Brought to you by the Digital Welty Lab
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "Explore correspondence in the collection of Karl and Mildred Wolfe."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: idaho;history;inland northwest
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Digital Welty Lab
 
 ##########
 # COLLECTION SETTINGS
@@ -50,9 +50,9 @@ metadata: wolfe
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
-organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
+organization-name: "Wolfe Studio"
+organization-link: https://www.thewolfestudio.com/
+organization-logo-banner: https://081852d778407f88211a.cdn6.editmysite.com/uploads/b/081852d778407f88211a4d2c787052b92df4238410ff9b07b0a142e42d273af5/WOLFE_LOGO_2_1713473344.png?width=2400&optimize=medium
 organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
 ##########
