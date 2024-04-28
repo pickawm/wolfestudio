@@ -14,18 +14,12 @@ credits: true
 
 ## About The Wolfe Studio Archive
 
-From entertaining adventures abroad to heartfelt advice and poignant life philosophies, the Wolfe family letters have allowed us meaningful glimpses into the lives of artists, their friends, and their work. In addition to furthering the field of digital humanities by providing a space for students to develop skills in transcribing, archival work, scanning, and research, the documents at Wolfe Studio provide an entryway into a wide array of topics and historical moments. These moments include World War II, military life, popular books and magazines throughout the decades, art shows and exhibits, and even contemporary discussion of Mississippi’s one and only Eudora Welty.
+From entertaining adventures abroad to heartfelt advice and poignant life philosophies, the Wolfe family letters offer meaningful glimpses into the lives of artists, their friends, and their work. They provide an entryway into a wide array of topics and historical moments. These moments include World War II, military life, popular books and magazines throughout the decades, art shows and exhibits, and even contemporary discussion of Mississippi’s one and only Eudora Welty.
 
-It is also fascinating to see how through the decades, people and their daily lives don’t change all that much. In a series of letters sent by Mildred Wolfe to her friend Margaret Alexander, Mildred discusses summer plans and striving to get good grades. In an exchange between Karl Wolfe and Wayne Wills, Wayne lists his Christmas presents; another sees him discussing Karl’s book. While we may be far from these people in time and space, their writings emphasize their humanity and the value of friends, family, and community.
+It is also fascinating to see how through the decades, people and their daily lives don’t change all that much. In a series of letters sent by Mildred Wolfe to her friend Margaret Alexander, Mildred Wolfe discusses summer plans and striving to get good grades. In an exchange between Karl Wolfe and Wayne Wills, Wayne lists his Christmas presents; another sees him discussing Karl’s book. While we may be far from these people in time and space, their writings emphasize their humanity and the value of friends, family, and community.
 
-Moving forward, the Wolfe Studio team continues to undertake the process of organizing, labelling, transcribing, coding, and scanning the documents in the Wolfe Archives. In addition, the data being input into the archive’s spreadsheet will be used to continuously update this CollectionBuilder site so that the documents and research data can exist in a secure and enduring space, ensuring a lasting legacy for the Wolfes.
+This project results from a collaboration between the Wolfe Studio and the Digital Welty Lab at Millsaps College. Led by Michael Pickard, the Eudora Welty Chair of Southern Literature at Millsaps, students in the Welty Lab learn about the field of digital humanities and develop skills in transcribing, archival work, scanning, and research. Moving forward, the Wolfe Studio team will continue to undertake the process of organizing, labelling, transcribing, coding, and scanning the documents in the Wolfe Archives. In addition, the data being input into the archive’s spreadsheet will be used to continuously update this CollectionBuilder site so that the documents and research data can exist in a secure and enduring space, helping to ensure the legacy of the Wolfe Studio.
 
-## Contributors
+## Colophon
 
-Mariam Bhatti, Welty Fellow, 2024-
-
-Isabella Suell, Welty Fellow, 2022-2023
-
-Patricia Syner, Welty Fellow, 2022-2024
-
-Macy Weaver, Welty Fellow, 2023-2024
+Under the guidance of daniel johnson, Michael Pickard, Sara Teasdale, and Bebe Wolfe, Isabella Suell (class of 2023) and Patricia Syner (class of 2024) began work on this project during the fall 2022 semester. Macy Weaver (class of 2024) joined the project in the fall of 2023, and Mariam Bhatti (class of 2026) started in the spring of 2024. Together, these Welty Fellows have transcribed, encoded, and scanned hundreds of items belonging to the Wolfe Studio Archive.

@@ -27,8 +27,7 @@ description: "Explore correspondence in the collection of Karl and Mildred Wolfe
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: idaho;history;inland northwest
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Digital Welty Lab
-
+author: digital-welty-lab
 ##########
 # COLLECTION SETTINGS
 #
@@ -50,10 +49,10 @@ metadata: wolfe
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-# organization-name: "Wolfe Studio"
-# organization-link: https://www.thewolfestudio.com/
-# organization-logo-banner: https://081852d778407f88211a.cdn6.editmysite.com/uploads/b/081852d778407f88211a4d2c787052b92df4238410ff9b07b0a142e42d273af5/WOLFE_LOGO_2_1713473344.png?width=2400&optimize=medium
-# organization-logo-banner: https://ewelty.org/wp-content/uploads/2021/02/WeltyLabLogo.svg
+organization-name: "Wolfe Studio"
+organization-link: https://www.thewolfestudio.com/
+organization-logo-banner: https://081852d778407f88211a.cdn6.editmysite.com/uploads/b/081852d778407f88211a4d2c787052b92df4238410ff9b07b0a142e42d273af5/WOLFE_LOGO_2_1713473344.png?width=2400&optimize=medium
+organization-logo-banner: https://ewelty.org/wp-content/uploads/2021/02/WeltyLabLogo.svg
 # organization-logo-nav: https://081852d778407f88211a.cdn6.editmysite.com/uploads/b/081852d778407f88211a4d2c787052b92df4238410ff9b07b0a142e42d273af5/WOLFE_LOGO_2_1713473344.png
 ##########
 # ROBOTS EXCLUDE
