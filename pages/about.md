@@ -22,4 +22,4 @@ This project results from a collaboration between the Wolfe Studio and the Digit
 
 ## Colophon
 
-Under the guidance of daniel johnson, Michael Pickard, Sara Teasdale, and Bebe Wolfe, two student Welty Fellows, Isabella Suell (class of 2023) and Patricia Syner (class of 2024), began work on this project during the fall 2022 semester. Macy Weaver (class of 2024) joined the project in the fall of 2023, and Mariam Bhatti (class of 2026) started in the spring of 2024. Together, these Welty Fellows have transcribed, encoded, and scanned hundreds of items belonging to the Wolfe Studio Archive.
+Under the guidance of daniel johnson, Michael Pickard, Sara Teasley, and Bebe Wolfe, two student Welty Fellows, Isabella Suell (class of 2023) and Patricia Syner (class of 2024), began work on this project during the fall 2022 semester. Macy Weaver (class of 2024) joined the project in the fall of 2023, and Mariam Bhatti (class of 2026) started in the spring of 2024. Together, these Welty Fellows have transcribed, encoded, and scanned hundreds of items belonging to the Wolfe Studio Archive.
